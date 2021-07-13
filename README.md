@@ -1,4 +1,4 @@
-# flutter_app
+# Flutter base architecture 
 
 A new Flutter application.
 
